@@ -6,5 +6,11 @@ Three stage functionality:
 * Correct answer state: cache cleared and country submission displayed as correct
 The equation between two long lats is: Distance, d = 3963.0 * arccos[(sin(lat1) * sin(lat2)) + cos(lat1) * cos(lat2) * cos(long2 – long1)]
 
+Next Steps:
+* CSS: Plain webpage ATM, add styling
+* Add map interface to display locations guessed
+* Testing population
+
+
 
 
