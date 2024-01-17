@@ -1,4 +1,4 @@
-# Earther (A hackRU project)
+# Earther (A personal project)
  Web development take on wordle, guessing countries by distance.
 Three stage functionality:
 * Guess Box allows api search for three objects: country code, flag, and log lat. Calculation is made to find distance between guessed country and answer
